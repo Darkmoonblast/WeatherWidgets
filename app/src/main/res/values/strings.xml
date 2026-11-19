@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="owm_api_key">d6843ab8ee963f5d372296dfff62aed7</string>
+    <string name="refresh">Обновить</string>
+
+    <string name="temp_c_format">%1$.1f °C</string>
+    <string name="temp_f_format">%1$.1f °F</string>
+    <string name="feels_c_format">Ощущается как %1$.1f °C</string>
+    <string name="feels_f_format">Ощущается как %1$.1f °F</string>
+    <string name="humidity_format">Влажность: %1$d%%</string>
+    <string name="pressure_format">Давление: %1$d гПа</string>
+    <string name="wind_format">Ветер: %1$.1f м/с</string>
+    <string name="clouds_format">Облачность: %1$d%%</string>
+
+    <string name="scale_c">Цельсий (°C)</string>
+    <string name="scale_f">Фаренгейт (°F)</string>
+    <string name="show_wind">Показывать направление ветра</string>
+
+    <string-array name="cities">
+        <item>Irkutsk</item>
+        <item>Moscow</item>
+        <item>Saint Petersburg</item>
+        <item>Kazan</item>
+        <item>Novosibirsk</item>
+        <item>Yekaterinburg</item>
+        <item>Vladivostok</item>
+        <item>Sochi</item>
+    </string-array>
+</resources>
